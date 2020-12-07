@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ConfOpt>
+  <Folders>
+    <Folder>
+      <Name>LogFilePath</Name>
+      <Path>D:\Lab3</Path>
+    </Folder>
+    <Folder>
+      <Name>Source</Name>
+      <Path>D:\Lab3\SourceDirectory</Path>
+    </Folder>
+    <Folder>
+      <Name>Target</Name>
+      <Path>D:\Lab3\TargetDirectory</Path>
+    </Folder>
+  </Folders>
+</ConfOpt>
