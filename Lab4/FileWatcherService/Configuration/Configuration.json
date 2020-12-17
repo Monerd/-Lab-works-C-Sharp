@@ -1,0 +1,16 @@
+{
+  "Folders": [
+    {
+      "Name": "LogFilePath",
+      "Path": "D:\\Lab3"
+    },
+    {
+      "Name": "Source",
+      "Path": "D:\\Lab3\\SourceDirectory"
+    },
+    {
+      "Name": "Target",
+      "Path": "D:\\Lab3\\TargetDirectory"
+    }
+  ]
+}
